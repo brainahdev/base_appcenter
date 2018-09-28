@@ -1,0 +1,485 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:1:1-37:12
+	package
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:2:5-28
+		INJECTED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [StarterKit:react-native-google-analytics-bridge:unspecified] G:\Kannan\surajapp\node_modules\react-native-google-analytics-bridge\android\build\intermediates\bundles\default\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\a1561ee1a71b8e60f1c609f0a59553df5fdd9ee1\output\AndroidManifest.xml:23:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\kannan_197at13\.android\build-cache\9bd40592bed056c2ab73a8010ef00d4d294cb8ff\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\kannan_197at13\.android\build-cache\c162a3093f0103a8322962bcb77db86c4fa6afa6\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\0d630c5df7adf13b376118cf97b9d388205aa414\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\8fa9815e9a9515d2e2f34f296c6ae5cfebeaf3a3\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.44.3] C:\Users\kannan_197at13\.android\build-cache\64574a0d779781c515382fada5d268eb08bf906e\output\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:7:22-75
+uses-permission#android.permission.CAMERA
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:8:5-65
+MERGED from [StarterKit:react-native-camera:unspecified] G:\Kannan\surajapp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:11:5-65
+MERGED from [com.github.react-native-community:cameraview:d5d9b0d925494ef451ce3eef3fdf14cc874d9baa] C:\Users\kannan_197at13\.android\build-cache\018ce95afdd1035ec435e20ee364f461a2ca29d8\output\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:12:22-78
+uses-sdk
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:13:5-15:41
+MERGED from [StarterKit:react-native-vector-icons:unspecified] G:\Kannan\surajapp\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [StarterKit:react-native-google-analytics-bridge:unspecified] G:\Kannan\surajapp\node_modules\react-native-google-analytics-bridge\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\919376b0a0465e9a08ea378c753f0be23c0ff7a2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\a1561ee1a71b8e60f1c609f0a59553df5fdd9ee1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\cc4adec52bc37ead69ee6cc4dd5bc22f21942189\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\7e5564d78469b837ca73e6633e941e40a88d9fb5\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\a99277600bb91c9f50f8bfbe65ee95e37e0b1643\output\AndroidManifest.xml:4:5-43
+MERGED from [StarterKit:react-native-fbsdk:unspecified] G:\Kannan\surajapp\node_modules\react-native-fbsdk\android\build\intermediates\bundles\default\AndroidManifest.xml:26:5-28:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\kannan_197at13\.android\build-cache\175b489117c52deed27a240856a04ffc31f7a1aa\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\kannan_197at13\.android\build-cache\fb91ba9f2f0786d91fb70aeefa4d81b2507f08fc\output\AndroidManifest.xml:20:5-44
+MERGED from [StarterKit:react-native-twitter-signin:unspecified] G:\Kannan\surajapp\node_modules\react-native-twitter-signin\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\kannan_197at13\.android\build-cache\9bd40592bed056c2ab73a8010ef00d4d294cb8ff\output\AndroidManifest.xml:23:5-44
+MERGED from [StarterKit:RNWebView:unspecified] G:\Kannan\surajapp\node_modules\react-native-webview-android\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [StarterKit:react-native-localization:unspecified] G:\Kannan\surajapp\node_modules\react-native-localization\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [StarterKit:react-native-device-info:unspecified] G:\Kannan\surajapp\node_modules\react-native-device-info\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\kannan_197at13\.android\build-cache\c162a3093f0103a8322962bcb77db86c4fa6afa6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\0d630c5df7adf13b376118cf97b9d388205aa414\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\a7a2e798cf00e5b149ec4f6a1e96f14a7c58a11c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\f94c4cf4e562cd5e95ac5cbdb7cfc4d3966a032b\output\AndroidManifest.xml:4:5-43
+MERGED from [StarterKit:react-native-image-picker:unspecified] G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [StarterKit:react-native-camera:unspecified] G:\Kannan\surajapp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:exifinterface:28.0.0-rc01] C:\Users\kannan_197at13\.android\build-cache\c737f2c09373d781670e2de8f1da87bb9d9021af\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.react-native-community:cameraview:d5d9b0d925494ef451ce3eef3fdf14cc874d9baa] C:\Users\kannan_197at13\.android\build-cache\018ce95afdd1035ec435e20ee364f461a2ca29d8\output\AndroidManifest.xml:17:5-19:41
+MERGED from [StarterKit:react-native-google-sign-in:unspecified] G:\Kannan\surajapp\node_modules\react-native-google-sign-in\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.44.3] C:\Users\kannan_197at13\.android\build-cache\64574a0d779781c515382fada5d268eb08bf906e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\kannan_197at13\.android\build-cache\250a36e8a2bae6e6cc52e8f74e0bab5d70d8166d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\kannan_197at13\.android\build-cache\361782385c965e463a1c02aa3abd04537658b418\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\kannan_197at13\.android\build-cache\bf12d3df532e671104a22bc5453588e0d4d33f26\output\AndroidManifest.xml:21:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\kannan_197at13\.android\build-cache\b0b3432d0971aca6df5cb0f3f2733388895bae44\output\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] C:\Users\kannan_197at13\.android\build-cache\50e45055a5d818060d4eb0fd69e18b7266dbe8c6\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] C:\Users\kannan_197at13\.android\build-cache\2bdd5e5f80550eef077681b04151d2a636581877\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] C:\Users\kannan_197at13\.android\build-cache\3f27e961a9f296c825b627dad289d28df170cfcc\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] C:\Users\kannan_197at13\.android\build-cache\bffab5c83548a9d6f9d4d1e296ab17d96b2c1959\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] C:\Users\kannan_197at13\.android\build-cache\a60167a52aab3f71e0605593775a06c2b8705b18\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] C:\Users\kannan_197at13\.android\build-cache\e3d5aee21c2babdcfa572ce4c02c47012a42b0f6\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\kannan_197at13\.android\build-cache\2bcb59bbc6c8c69c116041b2fb050b297ab383e6\output\AndroidManifest.xml:2:3-70
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\kannan_197at13\.android\build-cache\15002ae515a96bf402188e368fab841ef8430835\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\fb731d40a0bd7e78f61ee53df61177da3be5f92c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\kannan_197at13\.android\build-cache\519c18b071e6ac0415328a2dad8054440d1a6f07\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\1158605bee03171512452b0d2fb61cfcc8523e70\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\kannan_197at13\.android\build-cache\5d775ac80e96b33045fa6a105e61b3cfc4bcf600\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\kannan_197at13\.android\build-cache\225c4b4f9cad33ea8b83ae1018bc1265e5edae22\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kannan_197at13\.android\build-cache\1574e73ac71b5ce47728092f818cabf96c7fc011\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d457397749417a01f86116b1a3f2e074180c4092\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\9689614eb980d3a74e5d0941cf1bf76ad60e683e\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e2df04f9319fedd8b861dd81c5991e9d7929f0ab\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\kannan_197at13\.android\build-cache\934ae53318a9b324850fe1ef16b25b1f1cb4bc90\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\8fa9815e9a9515d2e2f34f296c6ae5cfebeaf3a3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\925bd0734eb407b1795fa10a1493c9d019f1d3a2\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\kannan_197at13\.android\build-cache\04a5f63f71cd84f7c91ecdb6566592e95e640b7b\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\cbd1b244cb76bc71d8679ab5c025b1f7900ccda6\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\kannan_197at13\.android\build-cache\4548f150383cd21cf26b1420e09a4967e847395e\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kannan_197at13\.android\build-cache\76536a52d4a357a260be4077176bff07097d6468\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\kannan_197at13\.android\build-cache\62ae366a39ec82d378b0cf42bb51e4100a4db019\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\kannan_197at13\.android\build-cache\caad3c0c034fd82778e80a1d05ebf94b6c6b5579\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\kannan_197at13\.android\build-cache\8de635c0ca611eae1823f4ccdb6b5041bfd10849\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\kannan_197at13\.android\build-cache\8033d0c4be46f3ec345ca7cb891e7045fc69e5c3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\kannan_197at13\.android\build-cache\2db3a7090cbdb9466118c6c3570299c20e5c6180\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\kannan_197at13\.android\build-cache\6e7ce119bfa908c91e3d0e8db8049ee9c0d8e0e6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d5c6c4df761f0192287385e49facb146b376c478\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e196fb635df299c19571a8a5ffdad591a802f070\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\6563c205ce48dce6fdbcb89b6add613912aebd89\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\ac235ae76af27d75d1907bf13485c98d96e0afd6\output\AndroidManifest.xml:4:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\kannan_197at13\.android\build-cache\250a36e8a2bae6e6cc52e8f74e0bab5d70d8166d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:15:9-38
+		INJECTED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:14:9-35
+		INJECTED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml
+application
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:17:5-35:19
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\919376b0a0465e9a08ea378c753f0be23c0ff7a2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\a1561ee1a71b8e60f1c609f0a59553df5fdd9ee1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\cc4adec52bc37ead69ee6cc4dd5bc22f21942189\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\7e5564d78469b837ca73e6633e941e40a88d9fb5\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\a99277600bb91c9f50f8bfbe65ee95e37e0b1643\output\AndroidManifest.xml:5:5-20
+MERGED from [StarterKit:react-native-fbsdk:unspecified] G:\Kannan\surajapp\node_modules\react-native-fbsdk\android\build\intermediates\bundles\default\AndroidManifest.xml:32:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\kannan_197at13\.android\build-cache\175b489117c52deed27a240856a04ffc31f7a1aa\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\kannan_197at13\.android\build-cache\fb91ba9f2f0786d91fb70aeefa4d81b2507f08fc\output\AndroidManifest.xml:22:5-20
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\kannan_197at13\.android\build-cache\9bd40592bed056c2ab73a8010ef00d4d294cb8ff\output\AndroidManifest.xml:27:5-33:19
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\kannan_197at13\.android\build-cache\c162a3093f0103a8322962bcb77db86c4fa6afa6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\0d630c5df7adf13b376118cf97b9d388205aa414\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\a7a2e798cf00e5b149ec4f6a1e96f14a7c58a11c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\f94c4cf4e562cd5e95ac5cbdb7cfc4d3966a032b\output\AndroidManifest.xml:5:5-20
+MERGED from [StarterKit:react-native-image-picker:unspecified] G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\AndroidManifest.xml:11:5-21:19
+MERGED from [com.github.react-native-community:cameraview:d5d9b0d925494ef451ce3eef3fdf14cc874d9baa] C:\Users\kannan_197at13\.android\build-cache\018ce95afdd1035ec435e20ee364f461a2ca29d8\output\AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.react:react-native:0.44.3] C:\Users\kannan_197at13\.android\build-cache\64574a0d779781c515382fada5d268eb08bf906e\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\kannan_197at13\.android\build-cache\250a36e8a2bae6e6cc52e8f74e0bab5d70d8166d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\kannan_197at13\.android\build-cache\361782385c965e463a1c02aa3abd04537658b418\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\kannan_197at13\.android\build-cache\bf12d3df532e671104a22bc5453588e0d4d33f26\output\AndroidManifest.xml:23:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\kannan_197at13\.android\build-cache\2bcb59bbc6c8c69c116041b2fb050b297ab383e6\output\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\kannan_197at13\.android\build-cache\4cbe54ca7a6d5ed45cdce70a59592e620390a99b\output\AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\fb731d40a0bd7e78f61ee53df61177da3be5f92c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\1158605bee03171512452b0d2fb61cfcc8523e70\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\kannan_197at13\.android\build-cache\5d775ac80e96b33045fa6a105e61b3cfc4bcf600\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\kannan_197at13\.android\build-cache\225c4b4f9cad33ea8b83ae1018bc1265e5edae22\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kannan_197at13\.android\build-cache\1574e73ac71b5ce47728092f818cabf96c7fc011\output\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d457397749417a01f86116b1a3f2e074180c4092\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\9689614eb980d3a74e5d0941cf1bf76ad60e683e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e2df04f9319fedd8b861dd81c5991e9d7929f0ab\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\kannan_197at13\.android\build-cache\934ae53318a9b324850fe1ef16b25b1f1cb4bc90\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\8fa9815e9a9515d2e2f34f296c6ae5cfebeaf3a3\output\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\925bd0734eb407b1795fa10a1493c9d019f1d3a2\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\kannan_197at13\.android\build-cache\04a5f63f71cd84f7c91ecdb6566592e95e640b7b\output\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\cbd1b244cb76bc71d8679ab5c025b1f7900ccda6\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\kannan_197at13\.android\build-cache\4548f150383cd21cf26b1420e09a4967e847395e\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kannan_197at13\.android\build-cache\76536a52d4a357a260be4077176bff07097d6468\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\kannan_197at13\.android\build-cache\62ae366a39ec82d378b0cf42bb51e4100a4db019\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\kannan_197at13\.android\build-cache\caad3c0c034fd82778e80a1d05ebf94b6c6b5579\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\kannan_197at13\.android\build-cache\8de635c0ca611eae1823f4ccdb6b5041bfd10849\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\kannan_197at13\.android\build-cache\8033d0c4be46f3ec345ca7cb891e7045fc69e5c3\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\kannan_197at13\.android\build-cache\2db3a7090cbdb9466118c6c3570299c20e5c6180\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\kannan_197at13\.android\build-cache\6e7ce119bfa908c91e3d0e8db8049ee9c0d8e0e6\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d5c6c4df761f0192287385e49facb146b376c478\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e196fb635df299c19571a8a5ffdad591a802f070\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\6563c205ce48dce6fdbcb89b6add613912aebd89\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\kannan_197at13\.android\build-cache\ac235ae76af27d75d1907bf13485c98d96e0afd6\output\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:20:7-39
+	android:supportsRtl
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:22:7-34
+	android:allowBackup
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:19:7-33
+	android:icon
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:21:7-41
+	android:theme
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:23:7-38
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:18:7-51
+activity#com.rentnride.MainActivity
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:24:7-32:18
+	android:label
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:26:9-41
+	android:configChanges
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:27:9-79
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:25:9-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:30:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:33:7-84
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:33:17-81
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:34:7-105
+	android:value
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:34:64-103
+	android:name
+		ADDED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:34:18-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [StarterKit:react-native-google-analytics-bridge:unspecified] G:\Kannan\surajapp\node_modules\react-native-google-analytics-bridge\android\build\intermediates\bundles\default\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\a1561ee1a71b8e60f1c609f0a59553df5fdd9ee1\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\8fa9815e9a9515d2e2f34f296c6ae5cfebeaf3a3\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [StarterKit:react-native-google-analytics-bridge:unspecified] G:\Kannan\surajapp\node_modules\react-native-google-analytics-bridge\android\build\intermediates\bundles\default\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\a1561ee1a71b8e60f1c609f0a59553df5fdd9ee1\output\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\8fa9815e9a9515d2e2f34f296c6ae5cfebeaf3a3\output\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\487e9b5783bea4273b3e9c173340a1b323a429bc\output\AndroidManifest.xml:41:13-80
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [StarterKit:react-native-fbsdk:unspecified] G:\Kannan\surajapp\node_modules\react-native-fbsdk\android\build\intermediates\bundles\default\AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from [StarterKit:react-native-fbsdk:unspecified] G:\Kannan\surajapp\node_modules\react-native-fbsdk\android\build\intermediates\bundles\default\AndroidManifest.xml:30:22-76
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\kannan_197at13\.android\build-cache\59c498d48df99ff2a36876b8958aea5838928f4d\output\AndroidManifest.xml:45:13-70
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\kannan_197at13\.android\build-cache\9bd40592bed056c2ab73a8010ef00d4d294cb8ff\output\AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\kannan_197at13\.android\build-cache\9bd40592bed056c2ab73a8010ef00d4d294cb8ff\output\AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\kannan_197at13\.android\build-cache\9bd40592bed056c2ab73a8010ef00d4d294cb8ff\output\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\kannan_197at13\.android\build-cache\9bd40592bed056c2ab73a8010ef00d4d294cb8ff\output\AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] C:\Users\kannan_197at13\.android\build-cache\9bd40592bed056c2ab73a8010ef00d4d294cb8ff\output\AndroidManifest.xml:29:13-79
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\kannan_197at13\.android\build-cache\c162a3093f0103a8322962bcb77db86c4fa6afa6\output\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\0d630c5df7adf13b376118cf97b9d388205aa414\output\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\kannan_197at13\.android\build-cache\c162a3093f0103a8322962bcb77db86c4fa6afa6\output\AndroidManifest.xml:23:22-79
+provider#android.support.v4.content.FileProvider
+ADDED from [StarterKit:react-native-image-picker:unspecified] G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [StarterKit:react-native-image-picker:unspecified] G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [StarterKit:react-native-image-picker:unspecified] G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [StarterKit:react-native-image-picker:unspecified] G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [StarterKit:react-native-image-picker:unspecified] G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [StarterKit:react-native-image-picker:unspecified] G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [StarterKit:react-native-image-picker:unspecified] G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [StarterKit:react-native-image-picker:unspecified] G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\AndroidManifest.xml:18:17-67
+uses-feature#android.hardware.camera
+ADDED from [StarterKit:react-native-camera:unspecified] G:\Kannan\surajapp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:13:5-15:36
+MERGED from [com.github.react-native-community:cameraview:d5d9b0d925494ef451ce3eef3fdf14cc874d9baa] C:\Users\kannan_197at13\.android\build-cache\018ce95afdd1035ec435e20ee364f461a2ca29d8\output\AndroidManifest.xml:23:5-60
+	android:required
+		ADDED from [StarterKit:react-native-camera:unspecified] G:\Kannan\surajapp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:15:9-33
+		MERGED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:13:5-15:36
+	android:name
+		ADDED from [StarterKit:react-native-camera:unspecified] G:\Kannan\surajapp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [StarterKit:react-native-camera:unspecified] G:\Kannan\surajapp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:16:5-18:36
+MERGED from [com.github.react-native-community:cameraview:d5d9b0d925494ef451ce3eef3fdf14cc874d9baa] C:\Users\kannan_197at13\.android\build-cache\018ce95afdd1035ec435e20ee364f461a2ca29d8\output\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [StarterKit:react-native-camera:unspecified] G:\Kannan\surajapp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [StarterKit:react-native-camera:unspecified] G:\Kannan\surajapp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:17:9-57
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from G:\Kannan\surajapp\android\app\src\main\AndroidManifest.xml:1:1-37:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\kannan_197at13\.android\build-cache\e45f9d044f2b201fa610621d0d24d2a7e18c36b5\output\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kannan_197at13\.android\build-cache\1574e73ac71b5ce47728092f818cabf96c7fc011\output\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kannan_197at13\.android\build-cache\1574e73ac71b5ce47728092f818cabf96c7fc011\output\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kannan_197at13\.android\build-cache\1574e73ac71b5ce47728092f818cabf96c7fc011\output\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\kannan_197at13\.android\build-cache\1574e73ac71b5ce47728092f818cabf96c7fc011\output\AndroidManifest.xml:24:13-79
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\8fa9815e9a9515d2e2f34f296c6ae5cfebeaf3a3\output\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\kannan_197at13\.android\build-cache\8fa9815e9a9515d2e2f34f296c6ae5cfebeaf3a3\output\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\kannan_197at13\.android\build-cache\d7951413b1c7d794c524f3b67c9276ef8d5656b0\output\AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\kannan_197at13\.android\build-cache\2810086be14c17bc7c6b1f8a9e86f0887cc1e59e\output\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\kannan_197at13\.android\build-cache\04a5f63f71cd84f7c91ecdb6566592e95e640b7b\output\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\kannan_197at13\.android\build-cache\04a5f63f71cd84f7c91ecdb6566592e95e640b7b\output\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\kannan_197at13\.android\build-cache\04a5f63f71cd84f7c91ecdb6566592e95e640b7b\output\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\kannan_197at13\.android\build-cache\04a5f63f71cd84f7c91ecdb6566592e95e640b7b\output\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\kannan_197at13\.android\build-cache\04a5f63f71cd84f7c91ecdb6566592e95e640b7b\output\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kannan_197at13\.android\build-cache\76536a52d4a357a260be4077176bff07097d6468\output\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kannan_197at13\.android\build-cache\76536a52d4a357a260be4077176bff07097d6468\output\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\kannan_197at13\.android\build-cache\76536a52d4a357a260be4077176bff07097d6468\output\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.1] C:\Users\kannan_197at13\.android\build-cache\62ae366a39ec82d378b0cf42bb51e4100a4db019\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\kannan_197at13\.android\build-cache\caad3c0c034fd82778e80a1d05ebf94b6c6b5579\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\kannan_197at13\.android\build-cache\8de635c0ca611eae1823f4ccdb6b5041bfd10849\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\kannan_197at13\.android\build-cache\8033d0c4be46f3ec345ca7cb891e7045fc69e5c3\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\kannan_197at13\.android\build-cache\2db3a7090cbdb9466118c6c3570299c20e5c6180\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\kannan_197at13\.android\build-cache\6e7ce119bfa908c91e3d0e8db8049ee9c0d8e0e6\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.1] C:\Users\kannan_197at13\.android\build-cache\62ae366a39ec82d378b0cf42bb51e4100a4db019\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.1] C:\Users\kannan_197at13\.android\build-cache\62ae366a39ec82d378b0cf42bb51e4100a4db019\output\AndroidManifest.xml:27:13-51

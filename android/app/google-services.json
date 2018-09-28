@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "162514141612",
+    "firebase_url": "https://agriyarentnride.firebaseio.com",
+    "project_id": "agriyarentnride",
+    "storage_bucket": "agriyarentnride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162514141612:android:4c3122a601cacbb6",
+        "android_client_info": {
+          "package_name": "com.rentnride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162514141612-kof7jqnu6kc688c0cliu7ar8vfo1useo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rentnride",
+            "certificate_hash": "236cb541b8addea8d2ae1a0eddeb1f730e0947cf"
+          }
+        },
+        {
+          "client_id": "162514141612-4jk20uo2a1vd1v3sclhr0tqqmg25nsu3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "162514141612-rok9o1vj2cl17iengs3btgiujdr5q7o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3lzF9L5zVdAGGgWZJwXkmayD9HmPRXto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162514141612-4jk20uo2a1vd1v3sclhr0tqqmg25nsu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

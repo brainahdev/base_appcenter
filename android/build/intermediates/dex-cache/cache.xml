@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\surajapp\node_modules\react-native-camera\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="231a011d4a15d456f0b267a5e34a1d95395ef35c">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_c9208c8bb1b35f2b763ba384fddea5aca4f48ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\crowdfundlend\node_modules\react-native-webview-android\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e6270d1fa02966c0af31a8716de31279b4dea19">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_e680ae4f838b51c6b06a38fc5f60eefd8fd47596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\surajapp\node_modules\react-native-fbsdk\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="52f849645380de2212d57830397eeb8eb09ca2e7">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_ba5a941364b8d306de5c940b56b9467d87e66347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\crowdfundlend\node_modules\react-native-camera\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="231a011d4a15d456f0b267a5e34a1d95395ef35c">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_5391315c167ec5c54f0fde7fcdc16478ffe26286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\rentnride\rentandride\node_modules\react-native-webview-android\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e6270d1fa02966c0af31a8716de31279b4dea19">
+        <dex dex="G:\Kannan\rentnride\rentandride\android\app\build\intermediates\pre-dexed\release\classes_04f649f2f39cb58e37b777bded2e4c6a09d23523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\rentnride\rentandride\node_modules\react-native-google-sign-in\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1c8c9187c133411ab8d5382a9243f8acfb4fc4b">
+        <dex dex="G:\Kannan\rentnride\rentandride\android\app\build\intermediates\pre-dexed\release\classes_3529e57e8e354ff19334e523ae50a83cffb40cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\crowdfundlend\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_763ec46d204c008532f1400b43936e66271f62f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\crowdfundlend\node_modules\react-native-twitter-signin\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38196ebeb1f7ae3eb58ca5c9f181c9afa1f1805c">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_57fedb8f4c6380d403bc392b054ff7fff0bf62a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\surajapp\node_modules\react-native-localization\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e2bf9716e283f0c9f8411abe3033b15428de2ea">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_2b59f4c0d8b9b0b472bc131230ee6d30f9bd3ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\rentnride\rentandride\node_modules\react-native-device-info\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2df6f652889bf8f37ece95ce5def13ada7bebab1">
+        <dex dex="G:\Kannan\rentnride\rentandride\android\app\build\intermediates\pre-dexed\release\classes_93154c40d5f10a09dcc56a2665b897b5ce40c6cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\surajapp\node_modules\react-native-device-info\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2df6f652889bf8f37ece95ce5def13ada7bebab1">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_9366680c230cf71c9e74598944c7c5aa8afbe23e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\surajapp\node_modules\react-native-google-analytics-bridge\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6364bb0cb5f03b61eeff5f7ab6abcaa6aad53790">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_5bf377db86a226cbc48671f55e59e1d98b321b59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\rentnride\rentandride\node_modules\react-native-fbsdk\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="52f849645380de2212d57830397eeb8eb09ca2e7">
+        <dex dex="G:\Kannan\rentnride\rentandride\android\app\build\intermediates\pre-dexed\release\classes_7c3b404b4f40807b4c380a6c7da227ced53aacee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\surajapp\node_modules\react-native-google-sign-in\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1c8c9187c133411ab8d5382a9243f8acfb4fc4b">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_d5dea7610a5e6886b705efd100b45afef7464087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kannan_197at13\.android\build-cache\64574a0d779781c515382fada5d268eb08bf906e\output\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_61322424536635157452223d0b3dec494d4f40e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\surajapp\node_modules\react-native-webview-android\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e6270d1fa02966c0af31a8716de31279b4dea19">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_6e8a256dae0d46fdc698dc55fcb8a5e6caa8662b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\rentnride\rentandride\node_modules\react-native-localization\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e2bf9716e283f0c9f8411abe3033b15428de2ea">
+        <dex dex="G:\Kannan\rentnride\rentandride\android\app\build\intermediates\pre-dexed\release\classes_3a6f2826424df11c7e2574ed542265feb358e6e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\rentnride\rentandride\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ad3c33c320b4d0b7504e97aa46a185dea8bd1f1c">
+        <dex dex="G:\Kannan\rentnride\rentandride\android\app\build\intermediates\pre-dexed\release\classes_5d3be28c1265bef58bf277a68fbd1675eab49b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\crowdfundlend\node_modules\react-native-localization\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e2bf9716e283f0c9f8411abe3033b15428de2ea">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_b12b667908c54020b6822537bbf679a7db619642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\surajapp\node_modules\react-native-twitter-signin\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38196ebeb1f7ae3eb58ca5c9f181c9afa1f1805c">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_1c469d7ba1cbc244eda1d18f57a5da3e9d541d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\surajapp\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_767f35e69df591172c1c223d7a14026dc646003f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\crowdfundlend\node_modules\react-native-fbsdk\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="52f849645380de2212d57830397eeb8eb09ca2e7">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_08a3ae0638b3700042ed3cf97d14faf0f98f0f78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\crowdfundlend\node_modules\react-native-google-sign-in\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1c8c9187c133411ab8d5382a9243f8acfb4fc4b">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_59488a3642e0b86737cee9ba7beba83d1d873034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\rentnride\rentandride\node_modules\react-native-camera\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="231a011d4a15d456f0b267a5e34a1d95395ef35c">
+        <dex dex="G:\Kannan\rentnride\rentandride\android\app\build\intermediates\pre-dexed\release\classes_a0b3d5e8fb691a07b31220f11a159a1f6047de09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\crowdfundlend\node_modules\react-native-google-analytics-bridge\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6364bb0cb5f03b61eeff5f7ab6abcaa6aad53790">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_d9ed45b3bb29e47c358a32b50e1c3929049b18a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\surajapp\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ad3c33c320b4d0b7504e97aa46a185dea8bd1f1c">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_8df01e7c5998d2e18bbfaf209e581747519b4b6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kannan_197at13\.android\build-cache\64574a0d779781c515382fada5d268eb08bf906e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="G:\Kannan\surajapp\android\app\build\intermediates\pre-dexed\debug\classes_9a5f7ffd300764a6d71725952ff8956554c1dabb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\crowdfundlend\node_modules\react-native-device-info\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2df6f652889bf8f37ece95ce5def13ada7bebab1">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_3685236964703c2a108fd32ff5432ffec4c4c0cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\rentnride\rentandride\node_modules\react-native-twitter-signin\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38196ebeb1f7ae3eb58ca5c9f181c9afa1f1805c">
+        <dex dex="G:\Kannan\rentnride\rentandride\android\app\build\intermediates\pre-dexed\release\classes_29752ccea12a8effec7d62f7b7a067e4dc804b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\crowdfundlend\node_modules\react-native-image-picker\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ad3c33c320b4d0b7504e97aa46a185dea8bd1f1c">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_a4e488d7db78314550280ac5122b0190b701395f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kannan_197at13\.android\build-cache\94cc147018a5dff4341a5b60f089a378407bd12e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\classes_3756db4f61e8d44e6457f62743864844621e4023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\rentnride\rentandride\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="G:\Kannan\rentnride\rentandride\android\app\build\intermediates\pre-dexed\release\classes_2387c0d0a505edd9eab60019c162871d77051c2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Kannan\rentnride\rentandride\node_modules\react-native-google-analytics-bridge\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6364bb0cb5f03b61eeff5f7ab6abcaa6aad53790">
+        <dex dex="G:\Kannan\rentnride\rentandride\android\app\build\intermediates\pre-dexed\release\classes_6c1d0d15f0e29cddc1d20cb5977c7ba283688b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kannan_197at13\.android\build-cache\94cc147018a5dff4341a5b60f089a378407bd12e\output\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="G:\Kannan\crowdfundlend\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_33af2cb455b1874e6bc4e11a6e0b76d8d71889b3.jar" />
+    </item>
+
+</items>

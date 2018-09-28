@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="cameraview-d5d9b0d925494ef451ce3eef3fdf14cc874d9baa">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.android/build-cache/018ce95afdd1035ec435e20ee364f461a2ca29d8/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/018ce95afdd1035ec435e20ee364f461a2ca29d8/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/018ce95afdd1035ec435e20ee364f461a2ca29d8/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
